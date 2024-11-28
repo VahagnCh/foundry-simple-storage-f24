@@ -2,6 +2,8 @@
 
 pragma solidity ^0.8.24;
 
+
+
 contract SimpleStorage {
     uint256 myFavoriteNumber;
 
